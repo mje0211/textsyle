@@ -1,0 +1,17 @@
+section{
+  width:50%;
+  height:30%;
+}
+h1{
+  background:#5F5F5F;
+  font-variant:small-caps;
+  text-align:center;
+  color:#ffffff;
+}
+list{
+  font-family:Courier;
+}
+span{
+  background:#F1F1F1;
+  color:#DC082F;
+}
